@@ -1,0 +1,88 @@
+.buttons{
+	text-align: center;
+	justify-content: center;
+}
+.container{
+	width: 1200px;
+	margin: auto;
+}
+.keyboard{
+	text-align: center;
+}
+.display{
+	margin-bottom: 10px;
+	outline: none;
+}
+.display input[type=text]{
+	height: 150px;
+	width: 1195px;
+	background: #e2ffef;
+	/*color: #fff;*/
+	overflow: auto;
+	border-radius: 10px;
+	outline: none;
+	border: 1px solid #41c53f;
+	color: #2f3542;
+	font-size: 20px;
+}
+.display{
+	height: 150px;
+	width: 1180px;
+	background: #e2ffef;
+	/*color: #fff;*/
+	overflow: auto;
+	border-radius: 10px;
+	outline: none;
+	border: 1px solid #41c53f;
+	color: #2f3542;
+	font-size: 20px;
+	padding: 10px;
+}
+.buttons{
+	outline: none;
+}
+.buttons button{
+	margin: 3px;
+	background: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000;
+	border: 1px solid #9c9c9c;
+	border-radius: 5px;
+}
+.buttons button:active{
+	border: 1px solid #9c9c9c;
+}
+.buttons{
+	background: #e3e5e8;
+	padding: 15px;
+	border-radius: 10px;
+}
+.key{
+	height: 35px;
+	width: 70px;
+}
+.Space{
+	height: 35px;
+	width: 300px;
+}
+.CapsLock{
+	height: 35px;
+	width: 120px;
+}
+.BackSpace{
+	height: 35px;
+	width: 150px
+}
+.Shift{
+	height: 35px;
+	width: 150px;
+}
+.enter{
+	height: 35px
+	width:	100px;
+}
+button.enter {
+    height: 35px;
+    width: 100px;
+}
